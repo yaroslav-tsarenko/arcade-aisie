@@ -1,0 +1,269 @@
+.logo-icon1 {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  object-fit: cover;
+}
+.arcade-aisle1 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 107px;
+}
+.logo-21 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.explore-a-seamless {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Inter;
+  color: #545454;
+}
+.footer-content {
+  width: 299px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  min-width: 299px;
+}
+.resources {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 700;
+  font-family: inherit;
+  color: #1d1d1d;
+}
+.agent-contact,
+.contact-us,
+.products1,
+.services {
+  width: 98.7px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.agent-contact,
+.contact-us,
+.services {
+  width: 117.8px;
+}
+.agent-contact,
+.services {
+  width: 156.2px;
+  display: none;
+}
+.services {
+  width: 97.3px;
+  display: inline-block;
+}
+.resource-links {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+  min-width: 142px;
+}
+.legal-pages {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 700;
+  font-family: inherit;
+  color: #1d1d1d;
+}
+.privacy-policy,
+.terms-and-condition {
+  position: relative;
+  line-height: 22px;
+}
+.privacy-policy {
+  text-decoration: none;
+  width: 117.8px;
+  color: inherit;
+  display: inline-block;
+}
+.refund-policy {
+  width: 156.2px;
+  display: inline-block;
+}
+.cancellation-policy,
+.refund-policy {
+  position: relative;
+  line-height: 22px;
+}
+.resource-links1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+  min-width: 142px;
+}
+.important-links {
+  width: 219.2px;
+  height: 56px;
+  position: relative;
+  font-size: 24px;
+  letter-spacing: -0.06px;
+  line-height: 28px;
+  display: inline-block;
+  color: #1d1d1d;
+}
+.about-us,
+.agent-contact1,
+.contact-us1,
+.services1 {
+  width: 98.7px;
+  height: 22px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.agent-contact1,
+.contact-us1,
+.services1 {
+  width: 117.8px;
+}
+.agent-contact1,
+.services1 {
+  width: 156.2px;
+}
+.services1 {
+  width: 97.3px;
+}
+.important-links-parent {
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.footer-container,
+.footer-links-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.footer-links-container {
+  width: 534.5px;
+  justify-content: flex-start;
+  gap: 96px;
+  min-width: 534.5px;
+  font-size: 16px;
+  color: #545454;
+  font-family: Inter;
+}
+.footer-container {
+  width: 1680px;
+  justify-content: space-between;
+  gap: 20px;
+}
+.arcade-aisle-all {
+  position: relative;
+  line-height: 22px;
+}
+.privacy-policy1,
+.tearms-conditions {
+  align-self: stretch;
+  width: 105px;
+  position: relative;
+  line-height: 22px;
+  display: none;
+}
+.tearms-conditions {
+  width: 156px;
+}
+.footer-menu,
+.legal-menu {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.legal-menu {
+  height: 22px;
+  width: 348px;
+  justify-content: flex-start;
+  gap: 87px;
+}
+.footer-menu {
+  width: 1680px;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 16px;
+  color: #545454;
+  font-family: Inter;
+}
+.footer-desktop {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 53px 20px;
+  box-sizing: border-box;
+  gap: 48px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 1100px) {
+  .footer-content,
+  .footer-links-container {
+    flex: 1;
+  }
+  .footer-container {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .footer-links-container {
+    flex-wrap: wrap;
+    gap: 48px;
+    min-width: 100%;
+  }
+  .footer-menu {
+    flex-wrap: wrap;
+  }
+  .footer-desktop {
+    gap: 24px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .important-links,
+  .legal-pages,
+  .resources {
+    font-size: 19px;
+    line-height: 22px;
+  }
+  .footer-links-container {
+    gap: 24px;
+  }
+  .footer-desktop {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}

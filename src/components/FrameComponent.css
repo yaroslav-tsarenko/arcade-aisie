@@ -1,0 +1,225 @@
+.most-popular {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.most-popular-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.kbkuer2nl42tcmtyguyte-minjpg-icon,
+.mfygk6bnnrswozlomrzq-minjpg-icon,
+.nzsxolltorqxizi-minjpg-icon {
+  height: 125px;
+  width: 125px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.mfygk6bnnrswozlomrzq-minjpg-icon,
+.nzsxolltorqxizi-minjpg-icon {
+  left: 149px;
+}
+.mfygk6bnnrswozlomrzq-minjpg-icon {
+  left: 298px;
+}
+.b21fe6d9166c673eed585a5fc38ef5-icon,
+.c-minjpg-icon,
+.guyte6bvgezf6rdjonrw64te-minj-icon,
+.kruhk3lcnzqws3c7guyte6bvgezc2m-icon {
+  height: 125px;
+  width: 125px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 447px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.b21fe6d9166c673eed585a5fc38ef5-icon,
+.guyte6bvgezf6rdjonrw64te-minj-icon,
+.kruhk3lcnzqws3c7guyte6bvgezc2m-icon {
+  left: 596px;
+}
+.b21fe6d9166c673eed585a5fc38ef5-icon,
+.guyte6bvgezf6rdjonrw64te-minj-icon {
+  left: 745px;
+}
+.guyte6bvgezf6rdjonrw64te-minj-icon {
+  left: 894px;
+}
+.for-everything-apple-1png-icon,
+.guyte6bvgezf6ttfortgy2lyl5kvg-icon,
+.kruhk3lcnzqws3bnguyte6bvgeza3-icon,
+.razergold-pin-512x512-blackbg-icon {
+  height: 125px;
+  width: 125px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 1043px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.for-everything-apple-1png-icon,
+.guyte6bvgezf6ttfortgy2lyl5kvg-icon,
+.razergold-pin-512x512-blackbg-icon {
+  left: 1192px;
+}
+.guyte6bvgezf6ttfortgy2lyl5kvg-icon,
+.razergold-pin-512x512-blackbg-icon {
+  left: 1341px;
+}
+.guyte6bvgezf6ttfortgy2lyl5kvg-icon {
+  left: 1490px;
+}
+.m5xw6z3mmvygyylz-minjpg-icon,
+.minpng-icon,
+.mvqs2z3jmz2ggylsmq-minjpg-icon,
+.nzuw45dfnzsg6llfonug64a-minjp-icon,
+.obwgc6ltorqxi2lpnywxg5dpojsq-m-icon {
+  height: 125px;
+  width: 125px;
+  position: absolute;
+  margin: 0 !important;
+  top: 149px;
+  left: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.m5xw6z3mmvygyylz-minjpg-icon,
+.minpng-icon,
+.mvqs2z3jmz2ggylsmq-minjpg-icon,
+.nzuw45dfnzsg6llfonug64a-minjp-icon {
+  left: 149px;
+}
+.m5xw6z3mmvygyylz-minjpg-icon,
+.minpng-icon,
+.mvqs2z3jmz2ggylsmq-minjpg-icon {
+  left: 298px;
+  object-fit: contain;
+}
+.m5xw6z3mmvygyylz-minjpg-icon,
+.mvqs2z3jmz2ggylsmq-minjpg-icon {
+  left: 447px;
+  object-fit: cover;
+}
+.mvqs2z3jmz2ggylsmq-minjpg-icon {
+  left: 596px;
+}
+.guyte6bvgezf6vdbnztw6icmnf3gk-icon,
+.iconwebp,
+.imvu-minjpg-icon,
+.optimized-tumilejpg-icon,
+.sklivejpg-icon,
+.x512-tinder-plusjpg-icon {
+  height: 125px;
+  width: 125px;
+  position: absolute;
+  margin: 0 !important;
+  top: 149px;
+  left: 745px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.guyte6bvgezf6vdbnztw6icmnf3gk-icon,
+.iconwebp,
+.optimized-tumilejpg-icon,
+.sklivejpg-icon,
+.x512-tinder-plusjpg-icon {
+  left: 894px;
+}
+.iconwebp,
+.optimized-tumilejpg-icon,
+.sklivejpg-icon,
+.x512-tinder-plusjpg-icon {
+  left: 1043px;
+}
+.iconwebp,
+.optimized-tumilejpg-icon,
+.sklivejpg-icon {
+  left: 1192px;
+}
+.optimized-tumilejpg-icon,
+.sklivejpg-icon {
+  left: 1341px;
+}
+.sklivejpg-icon {
+  left: 1490px;
+}
+.kbkuer2nl42tcmtyguyte-minjpg-parent {
+  align-self: stretch;
+  height: 274px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 24px;
+}
+.frame-child {
+  height: 46px;
+  width: 145px;
+}
+.frame-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.frame-group,
+.homepage-inner {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-group {
+  width: 1680px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.homepage-inner {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 24px;
+  color: #262626;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 800px) {
+  .frame-group {
+    gap: 16px;
+  }
+  .homepage-inner {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .most-popular {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

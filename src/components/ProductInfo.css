@@ -1,0 +1,534 @@
+.image-10-icon {
+  align-self: stretch;
+  height: 452px;
+  position: relative;
+  border-radius: 20px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.about-this-gift {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #545454;
+  text-align: left;
+}
+.frame-item {
+  height: 7.8px;
+  width: 15.7px;
+  position: relative;
+  object-fit: contain;
+}
+.about-this-gift-voucher-parent {
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1px solid #787878;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 30px;
+  gap: 20px;
+}
+.how-to-use {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #545454;
+  text-align: left;
+  display: inline-block;
+  min-width: 88px;
+}
+.frame-inner {
+  height: 7.8px;
+  width: 15.7px;
+  position: relative;
+  object-fit: contain;
+}
+.how-to-use-parent {
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1px solid #787878;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 30px;
+  gap: 20px;
+}
+.brands-included-in {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #545454;
+  text-align: left;
+}
+.vector-icon {
+  height: 7.8px;
+  width: 15.7px;
+  position: relative;
+  object-fit: contain;
+}
+.brands-included-in-this-vouche-parent {
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1px solid #787878;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 30px;
+  gap: 20px;
+}
+.terms-conditions {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #545454;
+  text-align: left;
+}
+.frame-child1 {
+  height: 7.8px;
+  width: 15.7px;
+  position: relative;
+  object-fit: contain;
+}
+.terms-conditions-parent {
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1px solid #787878;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 30px;
+  gap: 20px;
+}
+.discover-the-perfect,
+.note {
+  position: relative;
+  font-family: "DM Sans";
+  color: #a7a7a7;
+  text-align: left;
+}
+.note {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 45px;
+}
+.discover-the-perfect {
+  align-self: stretch;
+  font-size: 16px;
+  line-height: 135%;
+}
+.product-description {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 16px;
+}
+.gift-card-details,
+.product-description,
+.product-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.gift-card-details {
+  align-self: stretch;
+  align-items: center;
+  gap: 27px;
+}
+.product-details {
+  width: 689px;
+  align-items: flex-start;
+  padding: 80px 0;
+  box-sizing: border-box;
+  gap: 66px;
+  min-width: 689px;
+  max-width: 100%;
+}
+.best-buy-gift,
+.introducing-the-shoes {
+  align-self: stretch;
+  position: relative;
+  font-family: "DM Sans";
+  color: #545454;
+  text-align: left;
+}
+.best-buy-gift {
+  margin: 0;
+  font-size: 32px;
+  line-height: 120%;
+  font-weight: 700;
+}
+.introducing-the-shoes {
+  font-size: 16px;
+  line-height: 135%;
+}
+.recipient-options {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.i-would-like {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #545454;
+  text-align: left;
+  display: inline-block;
+  min-width: 114px;
+}
+.selection-buttons {
+  height: 58px;
+  flex: 1;
+}
+.selection-buttons1 {
+  height: 58px;
+  width: 143px;
+}
+.recipient-selection,
+.selection-title {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+}
+.recipient-selection {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.selection-title {
+  width: 321px;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 100%;
+}
+.gift-card-worth,
+.usd-200 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #545454;
+  text-align: left;
+  display: inline-block;
+  min-width: 124px;
+}
+.usd-200 {
+  color: #0024ff;
+  min-width: 78px;
+}
+.value-buttons {
+  border-radius: 5px;
+  border: 1px solid #0024ff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 29px;
+  white-space: nowrap;
+}
+.usd-500 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  min-width: 78px;
+}
+.value-buttons1 {
+  border-radius: 5px;
+  background-color: #0024ff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 30px;
+  white-space: nowrap;
+}
+.usd-700 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #0024ff;
+  text-align: left;
+  display: inline-block;
+  min-width: 78px;
+}
+.value-buttons2 {
+  border-radius: 5px;
+  border: 1px solid #0024ff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 29px;
+  white-space: nowrap;
+}
+.usd-1000 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #0024ff;
+  text-align: left;
+  display: inline-block;
+  min-width: 86px;
+}
+.value-buttons3,
+.value-options,
+.value-selection {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.value-buttons3 {
+  border-radius: 5px;
+  border: 1px solid #0024ff;
+  justify-content: flex-start;
+  padding: 16px 29px;
+  white-space: nowrap;
+}
+.value-options,
+.value-selection {
+  justify-content: center;
+  gap: 24px;
+}
+.value-options {
+  flex-direction: column;
+  max-width: 100%;
+}
+.select-your-quantity {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #545454;
+  text-align: left;
+}
+.quantity-buttons-child {
+  align-self: stretch;
+  width: 48px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #0024ff;
+  display: none;
+  z-index: 0;
+}
+.add-icon {
+  height: 19px;
+  width: 19px;
+  position: absolute;
+  margin: 0 !important;
+  top: 17px;
+  left: 14px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.quantity-buttons {
+  height: 50px;
+  width: 48px;
+  border-radius: 5px;
+  background-color: #0024ff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 10px;
+}
+.div26 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Inter;
+  color: #545454;
+  text-align: center;
+  display: inline-block;
+  min-width: 11px;
+}
+.empty-quantity {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14px 0 0;
+}
+.quantity-buttons-item {
+  height: 50px;
+  width: 48px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #0024ff;
+  display: none;
+}
+.add-icon1 {
+  width: 11.7px;
+  height: 1.7px;
+  position: relative;
+}
+.add-icon-wrapper {
+  height: 4.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.quantity-buttons1,
+.quantity-selection {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.quantity-buttons1 {
+  width: 48px;
+  border-radius: 5px;
+  background-color: #0024ff;
+  justify-content: flex-start;
+  padding: 25px 16px 20.7px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.quantity-selection {
+  align-self: stretch;
+  border-radius: 40px;
+  background-color: #f4f1ff;
+  justify-content: space-between;
+  gap: 20px;
+}
+.quantity-options {
+  width: 155px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.button {
+  align-self: stretch;
+  height: 54px;
+}
+.options-container,
+.purchase-options {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.options-container {
+  align-self: stretch;
+  gap: 48px;
+}
+.purchase-options {
+  flex: 1;
+  padding: 80px 0 0;
+  box-sizing: border-box;
+  min-width: 529px;
+}
+.product-container,
+.product-info {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.product-container {
+  margin: 0;
+  width: 1569px;
+  justify-content: flex-start;
+  gap: 66px;
+}
+.product-info {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+}
+@media screen and (max-width: 1300px) {
+  .product-details {
+    flex: 1;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .product-container {
+    flex-wrap: wrap;
+  }
+  .product-info {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .product-details {
+    gap: 33px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .best-buy-gift {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .value-selection {
+    flex-wrap: wrap;
+  }
+  .purchase-options {
+    padding-top: 52px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .product-container {
+    gap: 33px;
+  }
+  .product-info {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .product-details {
+    gap: 16px;
+  }
+  .best-buy-gift {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .button {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .options-container {
+    gap: 24px;
+  }
+  .purchase-options {
+    padding-top: 34px;
+    box-sizing: border-box;
+  }
+  .product-container {
+    gap: 16px;
+  }
+}

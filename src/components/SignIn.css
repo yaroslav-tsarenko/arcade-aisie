@@ -1,0 +1,335 @@
+.sign-up,
+.sign-up-to {
+  align-self: stretch;
+  position: relative;
+}
+.sign-up {
+  margin: 0;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.sign-up-to {
+  font-size: 16px;
+  line-height: 22px;
+  color: #1c1c1c;
+}
+.sign-up-parent {
+  width: 319px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.your-name {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 80px;
+}
+.name-address-username-labels {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7px 11px;
+  min-width: 159px;
+  white-space: nowrap;
+}
+.email {
+  width: 40px;
+  border: 0;
+  outline: 0;
+  font-family: "DM Sans";
+  font-size: 16px;
+  background-color: transparent;
+  height: 22px;
+  position: relative;
+  line-height: 135%;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+}
+.email-country-password-labels {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7px 11px;
+  min-width: 159px;
+}
+.name-address-username-fields {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.address {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 62px;
+}
+.address-wrapper {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7px 10px;
+  min-width: 159px;
+}
+.country {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 61px;
+}
+.empty-email-password-fields {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.country-parent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.name-address-username-fields1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 11px;
+}
+.username1 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 75px;
+}
+.empty-name-field {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.username-parent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.password1 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: "DM Sans";
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 71px;
+}
+.frame-icon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.password-parent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.name-address-username-fields2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 11px;
+}
+.tag-icon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button7 {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "DM Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 57px;
+  white-space: nowrap;
+}
+.tag-icon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button6 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #0024ff;
+  align-self: stretch;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.name-address-username-fields-parent {
+  margin: 0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.or-sign-up {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 112px;
+}
+.social-buttons-icon,
+.social-buttons-icon1,
+.social-buttons-icon2 {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  border-radius: 15px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 45px;
+}
+.sign-in2,
+.social-buttons-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.sign-in2 {
+  align-self: stretch;
+  border-radius: 24px;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 92px 36px;
+  gap: 36px;
+  text-align: center;
+  font-size: 48px;
+  color: #000;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 825px) {
+  .sign-up {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .name-address-username-fields,
+  .name-address-username-fields1,
+  .name-address-username-fields2 {
+    flex-wrap: wrap;
+  }
+  .sign-in2 {
+    gap: 18px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .sign-up {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

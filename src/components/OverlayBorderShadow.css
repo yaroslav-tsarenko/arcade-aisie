@@ -1,0 +1,182 @@
+.playstation-store-sprite-200x1-icon {
+  height: 108.8px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.background2 {
+  align-self: stretch;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 35.6px 17px;
+}
+.playstation-store {
+  margin-top: -23.1px;
+  position: relative;
+  text-decoration: underline;
+  line-height: 22.4px;
+  font-weight: 600;
+}
+.playstation-store-gift {
+  position: relative;
+  font-size: 14px;
+  text-decoration: underline;
+  line-height: 20px;
+  color: #999;
+}
+.container4 {
+  align-self: stretch;
+  height: 46.4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 22.4px 0 4px;
+  box-sizing: border-box;
+  gap: 0.7px;
+}
+.div3 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.price-symbols {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.discount-values,
+.empty-pricing {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+}
+.empty-pricing {
+  font-size: 19.4px;
+  line-height: 28px;
+  min-width: 27.8px;
+}
+.discount-values {
+  line-height: 20px;
+  min-width: 16px;
+}
+.discount-symbols {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.empty-discount {
+  position: relative;
+  font-size: 18.1px;
+  text-decoration: underline;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 6.7px;
+}
+.grid-item-discount {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 1.6px;
+  font-size: 13.6px;
+}
+.div4 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 8px;
+}
+.grid-item-sale-price {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+}
+.empty-sale-pricing,
+.empty-values {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+}
+.empty-sale-pricing {
+  font-size: 19.4px;
+  line-height: 28px;
+  min-width: 38.9px;
+}
+.empty-values {
+  line-height: 20px;
+  min-width: 16px;
+}
+.empty-grid-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+  font-size: 13.6px;
+}
+.grid-item-pricing {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.7px;
+  flex-shrink: 0;
+  font-size: 13.1px;
+}
+.grid-item-content {
+  flex: 1;
+  flex-direction: column;
+}
+.grid-item-content,
+.grid-item-content-wrapper,
+.overlaybordershadow {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.grid-item-content-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 12px;
+}
+.overlaybordershadow {
+  width: 217.6px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 6.4px;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 0 0 17px;
+  gap: 12px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}

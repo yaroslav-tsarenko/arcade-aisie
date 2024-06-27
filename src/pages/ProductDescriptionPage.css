@@ -1,0 +1,29 @@
+.nav-bar-parent,
+.productdescriptionpage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nav-bar-parent {
+  align-self: stretch;
+  max-width: 100%;
+}
+.productdescriptionpage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  gap: 79px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1125px) {
+  .productdescriptionpage {
+    gap: 39px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .productdescriptionpage {
+    gap: 20px;
+  }
+}

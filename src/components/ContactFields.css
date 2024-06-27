@@ -1,0 +1,51 @@
+.contact-information,
+.form-label {
+  position: relative;
+  line-height: 135%;
+}
+.form-label {
+  width: 40px;
+  border: 0;
+  outline: 0;
+  font-family: "DM Sans";
+  font-size: 16px;
+  background-color: transparent;
+  height: 22px;
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+}
+.icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.contact-fields,
+.form-field {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.form-field {
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  padding: 14px 16px;
+  gap: 64px;
+}
+.contact-fields {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: "DM Sans";
+}
